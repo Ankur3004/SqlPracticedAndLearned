@@ -1,0 +1,1 @@
+SELECT * FROM sys.dm_sql_referencing_entities('API.EVBPricing', 'OBJECT')
